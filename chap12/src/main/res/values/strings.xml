@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chap12</string>
+    <string name="drawer_opened">Opened Drawer</string>
+    <string name="drawer_closed">Closed Drawer</string>
+    <string name="long_text">IntelliJ IDEA의 개발사 JetBrains에서 2011년에 공개한 오픈 소스 프로그래밍 언어. JVM 기반의 언어이며, Java와 유사하지만 더 간결한 문법과 다양한 기능을 추가하였다. Java와의 상호 운용이 100% 지원된다. JVM 바이트코드가 기본이지만, Kotlin/Native 컴파일러를 사용하여 기계어로 컴파일할 수 있다. 안드로이드, 스프링 프레임워크, 톰캣[2], JavaScript, Java EE, HTML5, iOS, 라즈베리 파이 등을 개발할 때 사용할 수 있다.
+        현재 최신 버전은 1.5.31.
+        2017년에 구글이 안드로이드의 공식 언어로 Kotlin을 추가하였다. 이는 오라클과의 Java API 저작권 분쟁의 여파로 보는 시각이 많다. 2018년 카카오가 카카오톡 메시징 서버에 Kotlin을 사용해 본 결과, 코드량이 비약적으로 감소하고 생산성이 대폭 향상되었다고 한다. # 2019년 1월부터는 구글 내부의 안드로이드 프로젝트에서도 Java 대신 Kotlin을 사용한다. # 안드로이드 공식 문서의 샘플 코드도 Java보다 Kotlin으로 작성된 예제가 먼저 나온다.
+        이름은 JetBrains의 센터가 위치한 상트페테르부르크 근처의 코틀린(Ко́тлин) 섬에서 따왔다. Andrey Breslav(Андрей Бреслав)의 발표 참고 Java가 인도네시아의 섬이라는 것을 생각해보면 다분히 Java를 의식한 듯한 이름.</string>
+</resources>
